@@ -1,6 +1,6 @@
 ﻿<?php
 
-$siteOwnersEmail = 'marqedev@gmail.com';
+$siteOwnersEmail = 'rigo@ramzcorestoration.com';
 
 
 if($_POST) {
